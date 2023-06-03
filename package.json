@@ -13,5 +13,6 @@
       "import": "./dist/index.js"
     }
   },
-  "type": "module"
+  "type": "module",
+  "module": "./dist/index.js",
 }
