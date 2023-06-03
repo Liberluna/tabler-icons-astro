@@ -10,7 +10,8 @@
   "license": "MIT",
   "exports": {
     ".": {
-      "module": "./dist/index.js"
+      "import": "./dist/index.js"
     }
-  }
+  },
+  "type": "module"
 }
