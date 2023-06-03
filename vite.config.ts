@@ -3,9 +3,9 @@ import { defineConfig } from 'vite'
 export default defineConfig({
   build: {
     lib: {
-      entry: './lib/main.ts',
-      name: 'Counter',
-      fileName: 'counter'
+      entry: './src/index.js',
+      name: 'tablerIconsAstro',
+      fileName: 'index'
     }
   }
 })
