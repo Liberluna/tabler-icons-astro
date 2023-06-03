@@ -1,0 +1,8 @@
+{
+  "version": "2",
+  "remote": {
+    "https://esm.sh/@tabler/icons@2.21.0": "f442ceb1a2ef8d65cab2d98d0e86307057e053ee00cde4de382ad25c34552554",
+    "https://esm.sh/v124/@tabler/icons@2.21.0/deno/icons.mjs": "70a8d57f618fa8e4d7c3da14e41b1aa6645b60d9b394fab6fd2a08ca12d409c3",
+    "https://esm.sh/v124/@tabler/icons@2.21.0/dist/tabler-icons.d.ts": "6834fef6e72a025451dda26383c607177c03a07adaca9444432e9d7200c1afa7"
+  }
+}
