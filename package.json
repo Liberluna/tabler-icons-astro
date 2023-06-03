@@ -14,5 +14,5 @@
     }
   },
   "type": "module",
-  "module": "./dist/index.js",
+  "module": "./dist/index.js"
 }
