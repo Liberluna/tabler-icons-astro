@@ -12,7 +12,7 @@
     }
   },
   "scripts": {
-    "build": "vite build"
+    "build": "deno task make && vite build"
   },
   "devDependencies": {
     "typescript": "^4.9.4",
